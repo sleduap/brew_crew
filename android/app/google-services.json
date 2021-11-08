@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "344856226694",
+    "project_id": "sleduap-brew-crew",
+    "storage_bucket": "sleduap-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344856226694:android:1d7728dcb4a774acd31a07",
+        "android_client_info": {
+          "package_name": "com.sleduap.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344856226694-rafgepj59nmi5giivm2c117tr8cptd6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sleduap.brew_crew",
+            "certificate_hash": "353b149e31a7f70b4e7a44424687fb3ba645a7eb"
+          }
+        },
+        {
+          "client_id": "344856226694-d08vua0dunme74l0c12o2bjlmgi3ehsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmy0JhluZWScuJv21I_vVp6gkMfQIT224"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344856226694-d08vua0dunme74l0c12o2bjlmgi3ehsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
